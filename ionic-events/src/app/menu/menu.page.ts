@@ -26,6 +26,10 @@ export class MenuPage implements OnInit {
     {
       name: 'Events',
       path: '/menu/events'
+    },
+    {
+      name: 'View an event',
+      path: '/menu/view'
     }
   ]
 

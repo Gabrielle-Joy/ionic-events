@@ -26,6 +26,10 @@ const routes: Routes = [
       {
         path: 'events',
         loadChildren: '../events/events.module#EventsPageModule'
+      },
+      {
+        path: 'view',
+        loadChildren: '../view/view.module#ViewPageModule'
       }
     ]
   },
