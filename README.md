@@ -5,15 +5,15 @@ As a guest user I want to be able to register so that I can become authenticated
 Page: register
 
 View An Event
-As an Authenticated User I want to be able to view an event so that I will be able to see the event details for a specific event
+As an Authenticated User I want to be able to view an event so that I will be able to see the event details for a specific event <br>
 Page: view
 
 Login
-As a user I want to be able to login so that I can use the system.
+As a user I want to be able to login so that I can use the system. <br>
 page: login
 
 Get All Events
-As a User, I want to view all events so that I will be able to see details on events within the system
+As a User, I want to view all events so that I will be able to see details on events within the system <br>
 page: events
 
 
