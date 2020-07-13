@@ -16,12 +16,16 @@ export class MenuPage implements OnInit {
       path: '/menu/home'
     },
     {
+      name: 'Register',
+      path: '/menu/register'
+    },
+    {
       name: 'Login',
       path: '/menu/login'
     },
     {
-      name: 'Register',
-      path: '/menu/register'
+      name: 'Events',
+      path: '/menu/events'
     }
   ]
 
